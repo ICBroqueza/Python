@@ -1,2 +1,5 @@
 # Python
- Projects
+
+Projects
+Quizzes
+Learnings
